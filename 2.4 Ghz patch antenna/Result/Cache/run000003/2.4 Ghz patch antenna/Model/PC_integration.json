@@ -1,0 +1,49 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "sbx",
+         "type": "float",
+         "value": 80.0
+      },
+      {
+         "name": "sby",
+         "type": "float",
+         "value": 80.0
+      },
+      {
+         "name": "sbh",
+         "type": "float",
+         "value": 1.6
+      },
+      {
+         "name": "antx",
+         "type": "float",
+         "value": 35.0
+      },
+      {
+         "name": "anty",
+         "type": "float",
+         "value": 29.0
+      },
+      {
+         "name": "trx",
+         "type": "float",
+         "value": 2.98
+      },
+      {
+         "name": "insx",
+         "type": "float",
+         "value": 1.3
+      },
+      {
+         "name": "insy",
+         "type": "float",
+         "value": 7.0
+      }
+   ],
+   "outputVariables": []
+}

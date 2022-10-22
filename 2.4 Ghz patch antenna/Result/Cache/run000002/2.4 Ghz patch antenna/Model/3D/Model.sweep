@@ -1,0 +1,46 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "35",
+                    "step width": "1",
+                    "to": "47",
+                    "type": "linear",
+                    "varname": "antx"
+                },
+                {
+                    "from": "28",
+                    "step width": "1",
+                    "to": "30.2",
+                    "type": "linear",
+                    "varname": "anty"
+                },
+                {
+                    "from": "1.2",
+                    "step width": "0.1",
+                    "to": "1.5",
+                    "type": "linear",
+                    "varname": "insx"
+                },
+                {
+                    "from": "7",
+                    "step width": "0.08",
+                    "to": "7.16",
+                    "type": "linear",
+                    "varname": "insy"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

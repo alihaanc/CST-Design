@@ -1,0 +1,23 @@
+{
+    "parameters": [
+        {
+            "descr": "FR-4 substrate X dimension",
+            "expr": "40",
+            "name": "D",
+            "value": "40"
+        },
+        {
+            "descr": " FR-4 substrate height",
+            "expr": "1.57",
+            "name": "H",
+            "value": "1.57"
+        },
+        {
+            "descr": "TR x parameter",
+            "expr": "3.007",
+            "name": "TR",
+            "value": "3.007"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,14 @@
+Layer Detection Run At: Sat Jan 15 21:03:32 2022
+Layer Detection Version: 20180416
+
+Result from Auto-Detection.
+
+Multilayer Stack with 3 Layers in z-direction (top to bottom) :
+
+        12 + ----- Simulation Box Boundary -----------------
+           | Thickness: 10.6, Material: air_0
+       1.6 + ----- Interface -------------------------------
+           | Thickness: 1.57, Material: FR-4 (lossy)
+         0 + ----- Interface -------------------------------
+           | Thickness: 0.035, Material: air_0
+    -0.035 + ----- Simulation Box Boundary -----------------

@@ -1,0 +1,58 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2021 Nov 28 (Sun):  22:45:54
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+======================================================
+ - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+ - desired group         : 0, sockets = 0
+ - num cores available   : 4
+ - num accessible procs          : 4
+ - num logical procs             : 4
+ - affinity (main thread)        : 11 11 
+ - sockets                       : 0
+ - potential cores               : 0,2
+ - affinity                      : 11
+ - active cores          : 0,2
+ - hyperthreading        : on
+ - allowed core ids      : 0,2
+ - allowed core ids (aff): 10 10 
+ - used mask (string)    : 10 10 
+======================================================
+
+Version: 2021.4 Release from 2021-05-18 (change 873153) [Release]
+Started @ 2021 Nov 28 (Sun):  22:45:54
+Workflow: QQ-Facets
+Operation: [acis, fpba, bg, connectivity-tree]
+Architecture: Windows, ID: AMD64
+System Windows-64bit
+Using processor group 0/1
+HEX Mesh information:
+[Global mesh]
+	global O(0 0 0) 	global S(54 45 18) Z(43739)
+========================================================================
+Processing CAD model (for field results)
+	[Improved internal geometry representation]
+	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
+Version 2021.4 (build 20210518)
+PBA version 2021051821
+Sub-Workflow: Facets-QQ-GEX
+Workflow updated: -
+2021 Nov 28 (Sun):  22:45:54
+========================================================================
+
+===========================================
+Finished CAD processing (for field results)
+===========================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2021 Nov 28 (Sun):  22:45:54
+Resource usage for processing CAD model:
+	Runtime                        0.33 seconds
+	Peak Memory Usage:               19 MB
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+-----------------------------------------------------------------------------------------------------------------
+AXG prep time: 0 sec
+PBAMeshFeedback - InfoMap: 0[ms] - SBCell navigation: 0[ms] - CornerCorrectionLinesAndWires: 0[ms] - Write: 1[ms]
+-----------------------------------------------------------------------------------------------------------------
+

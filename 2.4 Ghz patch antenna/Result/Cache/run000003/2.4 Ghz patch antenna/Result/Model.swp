@@ -1,0 +1,187 @@
+28/Nov/2021 22:19:35  Some of the upcoming parameter combinations were already performed previously and will be skipped.
+                      Potential changes in the result settings like Template Based Post Processing are not taken into account. The feature can be deactivated via "Parameter Sweep -> Options..."
+28/Nov/2021 22:19:35  ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+28/Nov/2021 22:19:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.2
+                         insy = 7
+28/Nov/2021 22:19:37  
+                      Structure update: Successful
+28/Nov/2021 22:21:15            Solver: Successful
+28/Nov/2021 22:21:15       Solver time: 0 hours, 1 min., 38 sec.
+28/Nov/2021 22:21:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.2
+                         insy = 7.08
+28/Nov/2021 22:21:16  
+                      Structure update: Successful
+28/Nov/2021 22:23:10            Solver: Successful
+28/Nov/2021 22:23:10       Solver time: 0 hours, 1 min., 54 sec.
+28/Nov/2021 22:23:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.2
+                         insy = 7.16
+28/Nov/2021 22:23:12  
+                      Structure update: Successful
+28/Nov/2021 22:24:50            Solver: Successful
+28/Nov/2021 22:24:50       Solver time: 0 hours, 1 min., 38 sec.
+28/Nov/2021 22:24:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.3
+                         insy = 7
+28/Nov/2021 22:24:51  
+                      Structure update: Successful
+28/Nov/2021 22:26:28            Solver: Successful
+28/Nov/2021 22:26:28       Solver time: 0 hours, 1 min., 37 sec.
+28/Nov/2021 22:26:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.3
+                         insy = 7.08
+28/Nov/2021 22:26:30  
+                      Structure update: Successful
+28/Nov/2021 22:28:07            Solver: Successful
+28/Nov/2021 22:28:07       Solver time: 0 hours, 1 min., 37 sec.
+28/Nov/2021 22:28:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.3
+                         insy = 7.16
+28/Nov/2021 22:28:08  
+                      Structure update: Successful
+28/Nov/2021 22:29:44            Solver: Successful
+28/Nov/2021 22:29:44       Solver time: 0 hours, 1 min., 36 sec.
+28/Nov/2021 22:29:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.4
+                         insy = 7
+28/Nov/2021 22:29:45  
+                      Structure update: Successful
+28/Nov/2021 22:31:35            Solver: Successful
+28/Nov/2021 22:31:35       Solver time: 0 hours, 1 min., 50 sec.
+28/Nov/2021 22:31:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.4
+                         insy = 7.08
+28/Nov/2021 22:31:36  
+                      Structure update: Successful
+28/Nov/2021 22:33:23            Solver: Successful
+28/Nov/2021 22:33:23       Solver time: 0 hours, 1 min., 47 sec.
+28/Nov/2021 22:33:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.4
+                         insy = 7.16
+28/Nov/2021 22:33:24  
+                      Structure update: Successful
+28/Nov/2021 22:35:06            Solver: Successful
+28/Nov/2021 22:35:06       Solver time: 0 hours, 1 min., 41 sec.
+28/Nov/2021 22:35:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.5
+                         insy = 7
+28/Nov/2021 22:35:07  
+                      Structure update: Successful
+28/Nov/2021 22:36:50            Solver: Successful
+28/Nov/2021 22:36:50       Solver time: 0 hours, 1 min., 43 sec.
+28/Nov/2021 22:36:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.5
+                         insy = 7.08
+28/Nov/2021 22:36:51  
+                      Structure update: Successful
+28/Nov/2021 22:38:33            Solver: Successful
+28/Nov/2021 22:38:33       Solver time: 0 hours, 1 min., 42 sec.
+28/Nov/2021 22:38:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 28
+                         insx = 1.5
+                         insy = 7.16
+28/Nov/2021 22:38:34  
+                      Structure update: Successful
+28/Nov/2021 22:40:14            Solver: Successful
+28/Nov/2021 22:40:14       Solver time: 0 hours, 1 min., 40 sec.
+28/Nov/2021 22:40:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 29
+                         insx = 1.2
+                         insy = 7
+28/Nov/2021 22:40:15  
+                      Structure update: Successful
+28/Nov/2021 22:41:50            Solver: Successful
+28/Nov/2021 22:41:50       Solver time: 0 hours, 1 min., 35 sec.
+28/Nov/2021 22:41:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 29
+                         insx = 1.2
+                         insy = 7.08
+28/Nov/2021 22:41:52  
+                      Structure update: Successful
+28/Nov/2021 22:43:53            Solver: Successful
+28/Nov/2021 22:43:53       Solver time: 0 hours, 2 min., 1 sec.
+28/Nov/2021 22:43:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 29
+                         insx = 1.2
+                         insy = 7.16
+28/Nov/2021 22:43:54  
+                      Structure update: Successful
+28/Nov/2021 22:45:51            Solver: Successful
+28/Nov/2021 22:45:51       Solver time: 0 hours, 1 min., 57 sec.
+28/Nov/2021 22:45:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         antx = 35
+                         anty = 29
+                         insx = 1.3
+                         insy = 7
+28/Nov/2021 22:45:52  
+                      Structure update: Successful
+28/Nov/2021 22:46:16            Solver: Aborted
+28/Nov/2021 22:46:16       Solver time: 0 hours, 0 min., 24 sec.
+28/Nov/2021 22:46:16  --------------------------------------------------------------------------
+28/Nov/2021 22:46:16  
+                      ==========================================================================
+                      Total evaluation time: 0 hours, 26 min., 20 sec.
+                      ==========================================================================
